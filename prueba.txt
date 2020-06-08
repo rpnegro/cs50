@@ -1,0 +1,1 @@
+hello this is a test, with VS and git
